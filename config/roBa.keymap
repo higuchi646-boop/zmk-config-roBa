@@ -82,7 +82,7 @@
             bindings = <
 &kp Q             &kp W         &kp E         &kp R           &kp T                                                        &kp Y        &kp U  &lt 5 I    &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F           &kp G        &lt 6 ESCAPE                     &kp TAB        &kp H        &kp J  &kp K      &kp L    &lt 3 MINUS
-&kp Z             &kp X         &kp C         &kp V           &kp B        &kp CAPS                         &mo 7          &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
+&kp Z             &kp X         &kp C         &kp V           &kp B        &kp CAPS                         &lt 7 SPACE    &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &kp LEFT_SHIFT  &lt 2 SPACE  &lt_to_layer_0 3 INT_HENKAN      &kp BACKSPACE  &lt 1 ENTER                             &kp DEL
             >;
         };
